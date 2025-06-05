@@ -1,2 +1,2 @@
-# suket-pelangi-app.
+# Panji-app.
 membuat prompt generator
